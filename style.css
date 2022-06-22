@@ -1,0 +1,51 @@
+.navbar-brand{
+    /*font-size: medium;*/
+}
+
+.navbar{
+
+}
+
+body{
+    background-color: #93B5C6;
+}
+
+.intro{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+#intro_msg{
+    margin-top: 5%;
+}
+
+.programs{
+    margin-top: 10%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.faculties{
+    margin-top: 10%;
+}
+
+.program_name{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact{
+    margin-top: 10%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact_list{
+    margin-left: auto;
+    margin-right: auto;
+}
